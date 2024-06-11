@@ -13,3 +13,8 @@
 // limitations under the License.
 
 package util
+
+func main() {
+	println("hello world!")
+
+}
